@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ICR</title>
+  
+  <subtitle>I am a programmer.</subtitle>
+  <link href="https://ichirokawashima.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ichirokawashima.github.io/"/>
+  <updated>2020-10-31T08:31:31.074Z</updated>
+  <id>https://ichirokawashima.github.io/</id>
+  
+  <author>
+    <name>Ichiro Kawashima</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ichiro</title>
+    <link href="https://ichirokawashima.github.io/2020/10/30/ichiro/"/>
+    <id>https://ichirokawashima.github.io/2020/10/30/ichiro/</id>
+    <published>2020-10-30T23:31:31.000Z</published>
+    <updated>2020-10-31T08:31:31.074Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
